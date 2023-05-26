@@ -5,7 +5,9 @@
     padding: 1rem;
     color: white;
     background-color: green;
-}* */
+}* 
+*/
+
 /*base*/
 *{ 
     box-sizing: border-box;
@@ -14,15 +16,15 @@ img {width: 100vw; display: block;}
 *{
     padding: 0.5rem;  
 }
-html{
-    padding: 0;
-}
+html{ padding: 0; }
+
 /*Typo*/
 body{
     font-family: lato;
     margin: 0;
     padding: 0;
 }
+
 /*mise en page*/
 body{
     display:flex;
@@ -37,13 +39,10 @@ main{
     flex: 1 1 60%;
     padding: 0;
 }
-footer{
-    flex: 1 1 100%;}
+footer{ flex: 1 1 100%; }
 
 
-.topnav{
-    display: flex;
-}
+.topnav{ display: flex; }
 
 .navi a{
     color: white;
@@ -55,15 +54,12 @@ footer{
     text-decoration: none;
 }
 
-.home{
-    display: flex;
-}
-.button{
-    display: flex;
-}
-.white{
-    display: flex;
-}
+.home{ display: flex; }
+
+.button{ display: flex; }
+
+.white{ display: flex; }
+
 section {
     padding: 0;
     width: 98.9vw;
@@ -240,9 +236,6 @@ body{font-family: 'Lato', sans-serif; }
 /* Generale (picto + typo) */
 
 section { font-family: 'Lato'; }
-
-section{
-}
 
 .title2 { color: #337A5B; }
 
