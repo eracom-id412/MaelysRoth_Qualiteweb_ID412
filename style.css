@@ -31,6 +31,7 @@ body{
 } 
 nav{
     flex: 1 1 100%;
+    display: flex;
 }
 main{
     flex: 1 1 60%;
@@ -39,13 +40,21 @@ main{
 footer{
     flex: 1 1 100%;}
 
-nav{
-    display: flex;
-}
+
 .topnav{
     display: flex;
-    
 }
+
+.navi a{
+    color: white;
+    text-decoration: none;
+}
+
+.call a{
+    color: white;
+    text-decoration: none;
+}
+
 .home{
     display: flex;
 }
@@ -96,15 +105,13 @@ section {
     height: 35px;
     width: 150px;
     margin-right: 30px;
-    outline: 1px solid white;
-    border-radius: 3px;
     
 }
 .navi{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 45px;
+    margin-left: 15px;
 }
 h3{
     margin: 0;
@@ -112,8 +119,31 @@ h3{
     
 }
 .one{
-    text-decoration: underline
+    text-decoration: underline;
 }
+
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+
+.topnav {
+    flex: 1;
+    text-align: right;
+}
+
+/*darkmode*/
+
+:root{
+    /*
+    --primary-color: #edf2fc;
+    --secondary-color: #212121; 
+    */
+
+    --primary-color: #000106;
+    --secondary-color: #fff;
+}
+
 /*title*/
 .home{
     display: flex;
@@ -210,6 +240,9 @@ body{font-family: 'Lato', sans-serif; }
 /* Generale (picto + typo) */
 
 section { font-family: 'Lato'; }
+
+section{
+}
 
 .title2 { color: #337A5B; }
 
