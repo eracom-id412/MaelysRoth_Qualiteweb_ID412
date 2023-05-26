@@ -21,8 +21,12 @@ Pour les système de lecture pour aveugle. Lorsqu'un aveugle va ecouter la descr
 ### A11Y - Amélioration 2
 
 Description de votre amélioration: (2 pts)
+Couleur des boxs
+Les boxs blanches sur le fond blanc ce n'est pas suffisament visible. Donc j'ai décidé de mettre toutes les boxs en verts. Les boxs sont plus visible pour l'utilisateurs et le texte blanc resort bien sur le fond foncé.
 
 Dans quel cas cela aide l'utilisateur ? (2 pts)
+Pour un utilisateur qui à de la difficulté visuel. 
+Trop de différence de couleur peut perturbé la lecture.
 
 ---
 
