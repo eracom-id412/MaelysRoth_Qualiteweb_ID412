@@ -28,6 +28,14 @@ Dans quel cas cela aide l'utilisateur ? (2 pts)
 Pour un utilisateur qui a de la difficulté visuel. 
 Pas assez de différence de contraste de couleurs peut perturbé la lecture.
 
+### A11Y - Amélioration 3 (supplémentaire)
+
+Description de votre amélioration: (2 pts)
+Dark mode. J'ai ajouté un bouton dans la barre du menu, afin de pouvoir switcher en mode "nuit".
+
+Dans quel cas cela aide l'utilisateur ? (2 pts)
+Pour un utilisateur qui a de la difficulté visuel. Ou bien si la personne visite le site dans le noir/la nuit. C'est plus agréable pour lui de mettre le site en dark mode.
+
 ---
 
 ## Performance
@@ -60,7 +68,7 @@ Donc faire attention aux formats d’images, si possible les convertir en un aut
 Indiquer le gain de performance mesuré (1 pt)
 Cette amélioration aide encore une fois à ce que mon site soit plus propre et plus performant. Les images seront moins lourde mais pas forcémenet de moins bonnes qualitées.
 
-### Performance - Amélioration 3
+### Performance - Amélioration 3 (supplémentaire)
 
 Description + Pourquoi faire cette amélioration? (2 pts)
 Lazyload
