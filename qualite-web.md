@@ -53,6 +53,8 @@ Pour un utilisateur qui a de la difficulté visuel. Ou bien si la personne visit
 Description + Pourquoi faire cette amélioration? (2 pts)
 Taille des images
 Vérifier la taille de l’image, elle doit correspondre à la taille affichée. En évitant d’utiliser des images plus grandes que nécessaire.
+Format vectoriel (SVG) quand c’est possible.
+Les nouveaux formats: WebP, Avif : plus optimisés que Jpeg, Png et Gif.
 
 Indiquer le gain de performance mesuré (1 pt)
 Cette amélioration m'aide à rendre mon site moins lourd et plus performant. Il aura moins de peine à charger !
