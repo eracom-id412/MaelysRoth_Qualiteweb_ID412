@@ -13,10 +13,10 @@ Listez et expliquez les problèmes d'accessibilité que vous avez détecté sur 
 ### A11Y - Amélioration 1
 
 Description de votre amélioration: (2 pts)
-Descriptions des alt
+Descriptions des alt (lorsque cela est nécessaire uniquement)
 
 Dans quel cas cela aide l'utilisateur ? (2 pts)
-Pour les système de lecture pour aveugle. Lorsqu'un aveugle va ecouter la description de l'image. C'est important que le nom que je donne à mes images et pictos soit bien décrit. En évitant les titres inutiles et qui n'apporte aucune information ! 
+Pour les système de lecture pour aveugle. Lorsqu'un aveugle va ecouter la description de l'image. C'est important que le nom que je donne à mes images soit bien décrit afin que la personne puisse comprendre ce que l'image montre. En évitant bien évidemment les titres inutiles et qui n'apporte aucune information ! 
 
 ### A11Y - Amélioration 2
 
@@ -42,11 +42,14 @@ Pour un utilisateur qui a de la difficulté visuel. Ou bien si la personne visit
 
 ### Analyse de ma page (2 pts)
 
-- Taille globale de votre page.
+Lien de mon site :
+https://eracom-id412.github.io/MaelysRoth_Qualiteweb_ID412/
 
-- Répartition entre les différents contenus (images, fontes, html/css/js...)
-
-- Vitesse de chargement
+Preformance : 99
+Accessibilité : 79
+Bonnes pratiques : 92
+SEO : 80
+Vitesse de chargement : 0.7sec
 
 ### Performance - Amélioration 1
 
