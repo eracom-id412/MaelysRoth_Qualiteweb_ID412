@@ -51,6 +51,8 @@ Bonnes pratiques : 92
 SEO : 80
 Vitesse de chargement : 0.7sec
 
+Poids de mon site: 1.04Mo
+
 ### Performance - Amélioration 1
 
 Description + Pourquoi faire cette amélioration? (2 pts)
